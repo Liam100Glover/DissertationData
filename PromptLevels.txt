@@ -1,0 +1,11 @@
+
+Level 1 Prompt – Basic Grading Request:
+Please grade the following student response against the levelled rubric provided.
+
+
+Level 2 Prompt – Section-Aware Prompt With General Feedback
+Please grade the following student response using the 1–6 scale for each of the following areas: Ideas and Content, Organization, Voice, Word Choice and Sentence Fluency, and Conventions. Provide a short comment on what the student did well and where they could improve. Use the levelled rubric provided as reference.
+
+
+Level 3 Prompt – Full Rubric-Guided Evaluation With Detailed Feedback
+Please assess the following student response using the levelled rubric across the following areas: Ideas and Content, Organization, Voice, Word Choice and Sentence Fluency, and Conventions. For each area, assign a score from 1 to 6 and explain how the response meets or misses the rubric criteria. Provide detailed feedback to justify the scores and support future improvement.
